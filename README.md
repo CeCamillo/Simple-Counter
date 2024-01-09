@@ -3,6 +3,9 @@
 ## Overview
 Simple ReactJs counter app made with Vite. This project was built to practice state management and events. Also featuring acessibility features like visually hidden text.
 
+## Live Demo
+Check out the live demo [here](https://cecamillo.github.io/Simple-Counter/).
+
 ## Features
 - **Increment/Decrement**: Users can increase or decrease the count by 1 or 10.
 - **Reset**: Resets the count back to zero.
